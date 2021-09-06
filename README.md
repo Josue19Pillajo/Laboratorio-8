@@ -24,6 +24,32 @@ Investigar el tema  de  onda senoidal ya sea su forma gráfica como su forma mat
 
 # 4.  ANÁLISIS DEL PROBLEMA  Y RESPUESTAS A INTERROGANTES
 
+Responda las siguientes preguntas:
+
+4.1  ¿ Cuantas divisiones  por cuadro abarca  la amplitud pico  de la señal de salida ? 
+
+4.2  ¿ En qué valor está posicionada la perilla  VOLTS/DIV ?
+
+4.3  ¿ Cuantas divisiones por cuadro abarca  un ciclo completo  de la señal de salida ?
+
+4.4  ¿ En qué valor está posicionada la perilla  TIME/DIV ?
+
+4.5 ¿ Cúal es  la amplitud de voltaje  y el periodo de la señal  que aparece en la pantalla del osciloscopio  ?
+
+Amplitud de voltaje :                 (V)
+
+Periodo:             (s)
+
+4.6 Determine la frecuencia  natural (Hz)  y la frecuencia angular  (rad/s)  de la señal de salida
+  
+f:                 (Hz)
+
+w:     (rad/s)
+
+4.7  Con el multimetro digital mida  el voltaje de salida  en RL
+
+4.8  Compare el voltaje medido  en el punto  4.5  y el obtenido en el punto  4.7  ¿Coinciden?  ¿Por qué ?
+
 
 # 5. VIDEO
 
