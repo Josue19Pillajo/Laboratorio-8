@@ -31,9 +31,12 @@ Investigar el tema  de  onda senoidal ya sea su forma gráfica como su forma mat
 
 3.3  Ajuste el generado  de funciones, para que proporcione  una señal de  20 Vpp a una frecuencia de  2.5  Khz 
 
+![1](https://user-images.githubusercontent.com/84783236/132263228-471a80b3-cca4-4d59-9174-0cb3f3b4b3a2.png)
+
 
 3.4 Conecte el osciloscopio  al resistor de carga  RL. Observe la señal  que aparece en el osciloscopio
 
+![2](https://user-images.githubusercontent.com/84783236/132263231-c9f15290-6749-4511-bd8b-884c7bf454da.png)
 
 
 # 4.  ANÁLISIS DEL PROBLEMA  Y RESPUESTAS A INTERROGANTES
