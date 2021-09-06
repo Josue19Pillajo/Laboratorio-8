@@ -46,7 +46,7 @@ Responda las siguientes preguntas:
 
 4.1  ¿ Cuantas divisiones  por cuadro abarca  la amplitud pico  de la señal de salida ? 
 
-Aproximadamente 1 ^ 1/5 de cuadros
+Aproximadamente 1  y 1/5 de cuadros
 
 4.2  ¿ En qué valor está posicionada la perilla  VOLTS/DIV 
 
@@ -54,7 +54,7 @@ Aproximadamente 1 ^ 1/5 de cuadros
 
 4.3  ¿ Cuantas divisiones por cuadro abarca  un ciclo completo  de la señal de salida ?
 
-Aproximadamente  4  ^ 1/5  de cuadros 
+Aproximadamente  4  y 1/5 de cuadros
 
 4.4  ¿ En qué valor está posicionada la perilla  TIME/DIV ?
 
@@ -68,9 +68,9 @@ Periodo:  0.42  ms
 
 4.6 Determine la frecuencia  natural (Hz)  y la frecuencia angular  (rad/s)  de la señal de salida
   
-f:                 (Hz)
+f:  2.38  kHz
 
-w:     (rad/s)
+w:  14.95  rad/s
 
 4.7  Con el multimetro digital mida  el voltaje de salida  en RL
 
