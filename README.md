@@ -30,6 +30,9 @@ Investigar el tema  de  onda senoidal ya sea su forma gráfica como su forma mat
 
 # 6. CONCLUSIONES
 
+Conluimosla práctica  y  respomdimos todas las interrogantes plasmadas en este trabajo  y comprendimos el tema correpondiente a tratar.
+
+Determinamos  que el osciloscopio  es un instrumento muy eficaz para  esta clase de problemas ya que gracias a este instrumento  podemos concoer valores  extras que quisieramos  concocer ya sea como  el valor pico, la onda , su frecuencia, valor eficaz y muchos mas valores mas.
 
 # 7. BIBLIOGRAFÍA
 
