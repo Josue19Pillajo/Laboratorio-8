@@ -21,6 +21,20 @@ Investigar el tema  de  onda senoidal ya sea su forma gráfica como su forma mat
 
 # 3.  EXPLICACIÓN DEL PROCEDIMIENTO
 
+3.1 Determinar materiales
+
+![mat](https://user-images.githubusercontent.com/84783236/132262555-d72a5ab0-d28b-48d4-852d-1b3523f60e4e.png)
+
+3.2  Implemente el circuito que se presenta en la figura
+
+![circui](https://user-images.githubusercontent.com/84783236/132262588-b17088ce-fc27-4921-8a75-6e13f9fbf77e.png)
+
+3.3  Ajuste el generado  de funciones, para que proporcione  una señal de  20 Vpp a una frecuencia de  2.5  Khz 
+
+
+3.4 Conecte el osciloscopio  al resistor de carga  RL. Observe la señal  que aparece en el osciloscopio
+
+
 
 # 4.  ANÁLISIS DEL PROBLEMA  Y RESPUESTAS A INTERROGANTES
 
