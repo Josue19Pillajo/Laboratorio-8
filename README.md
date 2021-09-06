@@ -74,8 +74,12 @@ w:  14.95  rad/s
 
 4.7  Con el multimetro digital mida  el voltaje de salida  en RL
 
+![3](https://user-images.githubusercontent.com/84783236/132264103-033e6bf6-70ae-44b6-ae81-c929c2813ada.png)
+
+
 4.8  Compare el voltaje medido  en el punto  4.5  y el obtenido en el punto  4.7  ¿Coinciden?  ¿Por qué ?
 
+No coinciden . Por qué  en el multimetro el valor que nos muestra esta en rms , pero en el osciloscopio  observamos el  voltaje maximo del circuito.
 
 # 5. VIDEO
 
