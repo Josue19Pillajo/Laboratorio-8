@@ -36,7 +36,8 @@ Investigar el tema  de  onda senoidal ya sea su forma gráfica como su forma mat
 
 3.4 Conecte el osciloscopio  al resistor de carga  RL. Observe la señal  que aparece en el osciloscopio
 
-![2](https://user-images.githubusercontent.com/84783236/132263231-c9f15290-6749-4511-bd8b-884c7bf454da.png)
+![2](https://user-images.githubusercontent.com/84783236/132263371-654807b3-9c8f-44d8-8185-ba8aeeabc380.png)
+
 
 
 # 4.  ANÁLISIS DEL PROBLEMA  Y RESPUESTAS A INTERROGANTES
