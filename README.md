@@ -18,6 +18,8 @@ Investigar el tema  de  onda senoidal ya sea su forma gráfica como su forma mat
 
 # 2. MARCO TEÓRICO
 
+![JOSUE 2](https://user-images.githubusercontent.com/84783236/132279541-47e92a23-f963-4834-833d-e06ddec8e092.png)
+
 
 # 3.  EXPLICACIÓN DEL PROCEDIMIENTO
 
