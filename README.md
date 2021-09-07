@@ -83,6 +83,7 @@ No coinciden . Por qué  en el multimetro el valor que nos muestra esta en rms ,
 
 # 5. VIDEO
 
+https://youtu.be/KpiaAOlkMTQ
 
 # 6. CONCLUSIONES
 
